@@ -2,7 +2,10 @@
 
 # What does this application do?
 Given an image of a text witten in a language, can computer tools of computer vision be used to identify the script of the language? 
-We have explored this question by using feature extraction and creating classification using bag of visual-words model followed by its classification
+We have explored this question by using feature extraction and creating classification using bag of visual-words model followed by its classification. 
+
+# What is the language used?
+This project is implemented in MATLAB.
 
 # Where to start?
 The entry point of the project is manager.m file.
